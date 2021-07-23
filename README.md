@@ -43,5 +43,5 @@ On my blog, some posts refer to code examples. Here are some of them:
 
 Yeah, got some of these from Doka 🇷🇺
 
-![Автор в @doka](https://raw.githubusercontent.com/Y-Doka/badges/main/images/badges/author.svg)
-![Программист в @doka](https://raw.githubusercontent.com/Y-Doka/badges/main/images/badges/programmer.svg)
+- ![Автор в @doka](https://raw.githubusercontent.com/Y-Doka/badges/main/images/badges/author.svg)
+- ![Программист в @doka](https://raw.githubusercontent.com/Y-Doka/badges/main/images/badges/programmer.svg)
