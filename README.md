@@ -1,10 +1,8 @@
 # `console.log('Hello World!')`
 
-My name is Alex.
+My name is Alex. I'm a developer, speaker, and mentor. Currently living in Russia 🇷🇺 and working at DRIVE2.RU 🚗
 
-I'm a developer, speaker, and mentor. Currently living in Russia 🇷🇺 and working at DRIVE2.RU 🚗
-
-Sometimes post in my [blog](https://github.com/bespoyasov/www) ✍️ and do public talks 🎙
+Sometimes I code 🧑‍💻, post to the [blog](https://github.com/bespoyasov/www) ✍️ and do public talks 🎙
 
 ## Some Projects 🧑‍💻
 
