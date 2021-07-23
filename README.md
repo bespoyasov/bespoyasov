@@ -21,7 +21,7 @@ Previously, did some open (and not very much) source:
 
 ## Public Talks 🎙
 
-When giving public talks, I like to do live coding. There is the source code for some of my talks:
+When giving [public talks](https://bespoyasov.ru/talks/), I like to do live coding. There is the source code for some of them:
 
 - [Clean Architecture on Frontend](https://github.com/bespoyasov/frontend-clean-architecture) 🇷🇺
 - [Testing React App in the Real Life](https://github.com/bespoyasov/testing-workshop) 🇷🇺
