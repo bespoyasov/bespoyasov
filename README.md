@@ -12,7 +12,7 @@ I have mostly worked on educational projects lately:
 - [Fullstack React with TypeScript](https://www.newline.co/fullstack-react-with-typescript), a book about building more robust React-apps using TypeScript 🇬🇧
 - [SOLID Book](https://github.com/open-tech-authors/solid), a book about object-oriented design principles 🇷🇺
 - [TTT-TDD](https://github.com/bespoyasov/ttt-tdd), a “Tic-tac-toe” test-driven development walk-through 🇷🇺
-- [Frontend With No Pain](https://github.com/bespoyasov/front-not-pain), a guide for frontend developers 🇷🇺
+- [Frontend with No Pain](https://github.com/bespoyasov/front-not-pain), a guide for frontend developers 🇷🇺
 
 Previously, did some open (and not very much) source:
 
@@ -43,5 +43,5 @@ On my blog, some posts refer to code examples. Here are some of them:
 
 Yeah, got some of these from Doka 🇷🇺
 
-- ![Автор в @doka](https://raw.githubusercontent.com/Y-Doka/badges/main/images/badges/author.svg)
-- ![Программист в @doka](https://raw.githubusercontent.com/Y-Doka/badges/main/images/badges/programmer.svg)
+![Автор в @doka](https://raw.githubusercontent.com/Y-Doka/badges/main/images/badges/author.svg)
+![Программист в @doka](https://raw.githubusercontent.com/Y-Doka/badges/main/images/badges/programmer.svg)
