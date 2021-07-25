@@ -2,9 +2,7 @@
 
 My name is Alex. 
 
-I'm a developer, speaker, and mentor. Currently living in Russia 🇷🇺 and working at [DRIVE2.RU](https://www.drive2.ru) 🚗
-
-Sometimes I code 🧑‍💻, post to the [blog](https://github.com/bespoyasov/www) ✍️ and do public talks 🎙
+I'm a developer, speaker, and mentor. Currently living in Russia 🇷🇺, working at [DRIVE2.RU](https://www.drive2.ru) 🚗, and posting to the [blog](https://github.com/bespoyasov/www) ✍️
 
 ## Some Projects 🧑‍💻
 
