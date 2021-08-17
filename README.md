@@ -42,7 +42,7 @@ On my blog, some posts refer to code examples. Here are some of them:
 
 ## Badges 📌
 
-Yeah, got some of these from Doka 🇷🇺
+Yeah, got some of these from [Doka](https://github.com/doka-guide/content) 🇷🇺
 
 - ![Автор в @doka](https://raw.githubusercontent.com/Y-Doka/badges/main/images/badges/author.svg)
 - ![Программист в @doka](https://raw.githubusercontent.com/Y-Doka/badges/main/images/badges/programmer.svg)
