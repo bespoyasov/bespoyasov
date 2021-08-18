@@ -42,11 +42,11 @@ On my blog, some posts refer to code examples. Here are some of them:
 
 ## External Platforms
 
-Sometimes I also post on:
+Except for the [blog](https://github.com/bespoyasov/www) 🇷🇺 I sometimes also post on:
 
-- Twitter [RU 🇷🇺](http://twitter.com/bespoyasov) | [EN 🇬🇧](http://twitter.com/bespoyasov_)
-- [Dev.to](https://dev.to/bespoyasov)
-- [Newline.co](https://www.newline.co/@bespoyasov)
+- Twitter [RU](http://twitter.com/bespoyasov) 🇷🇺 | [EN](http://twitter.com/bespoyasov_) 🇬🇧
+- [Dev.to](https://dev.to/bespoyasov) 🇬🇧
+- [Newline.co](https://www.newline.co/@bespoyasov) 🇬🇧
 
 ## Badges 📌
 
