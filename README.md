@@ -40,6 +40,14 @@ On my blog, some posts refer to code examples. Here are some of them:
 - [Text-to-Morse-code Translator](https://github.com/bespoyasov/morse), translates text into Morse code sound 🇬🇧🇷🇺
 - [Web Worker Example](https://github.com/bespoyasov/web-worker-example) 🇷🇺
 
+## External Platforms
+
+Sometimes I also post on:
+
+- Twitter [RU 🇷🇺](http://twitter.com/bespoyasov) | [EN 🇬🇧](http://twitter.com/bespoyasov_)
+- [Dev.to](https://dev.to/bespoyasov)
+- [Newline.co](https://www.newline.co/@bespoyasov)
+
 ## Badges 📌
 
 Yeah, got some of these from [Doka](https://github.com/doka-guide/content) 🇷🇺
