@@ -44,7 +44,7 @@ On my blog, some posts refer to code examples. Here are some of them:
 
 Except for the [blog](https://github.com/bespoyasov/www) 🇷🇺 I sometimes also post on:
 
-- Twitter [RU](http://twitter.com/bespoyasov) 🇷🇺 | [EN](http://twitter.com/bespoyasov_) 🇬🇧
+- Twitter [RU](http://twitter.com/bespoyasov) 🇷🇺 and [EN](http://twitter.com/bespoyasov_) 🇬🇧
 - [Dev.to](https://dev.to/bespoyasov) 🇬🇧
 - [Newline.co](https://www.newline.co/@bespoyasov) 🇬🇧
 
