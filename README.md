@@ -38,7 +38,7 @@ On my blog, some posts refer to code examples. Here are some of them:
 - [Finite State Machine](https://github.com/bespoyasov/fsm-example), a data loader made using FSM 🇷🇺
 - [You Really Don't Need Redux Now](https://github.com/bespoyasov/you-really-dont-need-redux-now), a Redux vs React.Context + hooks comparison 🇷🇺
 - [Text-to-Morse-code Translator](https://github.com/bespoyasov/morse), translates text into Morse code sound 🇬🇧🇷🇺
-- [Web Worker Example](https://github.com/bespoyasov/web-worker-example) 🇷🇺
+- [Web Worker Example](https://github.com/bespoyasov/web-worker-example), an example of using web workers for making a page more responsive 🇷🇺
 - [Tools](https://github.com/bespoyasov/tools), a list of tools I use in the development 🇷🇺
 
 ## External Platforms
