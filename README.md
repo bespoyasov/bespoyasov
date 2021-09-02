@@ -23,7 +23,7 @@ Previously, did some open (and not very much) source:
 
 When giving [public talks](https://bespoyasov.ru/talks/), I like to do live coding. There is the source code for some of them:
 
-- [Clean Architecture on Frontend](https://github.com/bespoyasov/frontend-clean-architecture) 🇷🇺
+- [Clean Architecture on Frontend](https://github.com/bespoyasov/frontend-clean-architecture) 🇬🇧🇷🇺
 - [Testing React App in the Real Life](https://github.com/bespoyasov/testing-workshop) 🇷🇺
 - [HTML and CSS Basics](https://github.com/bespoyasov/traktor-html-css-workshop) 🇷🇺
 
@@ -31,6 +31,7 @@ When giving [public talks](https://bespoyasov.ru/talks/), I like to do live codi
 
 On my blog, some posts refer to code examples. Here are some of them:
 
+- [Clean Architecture on Frontend](https://github.com/bespoyasov/frontend-clean-architecture), how to use the Clean Architecture when writing a React app 🇬🇧🇷🇺
 - [Binary Adder in the Game of Life](https://github.com/bespoyasov/binary-full-adder-in-the-game-of-life), a circuit implementation made with patterns from Conway's Game of Life 🇬🇧🇷🇺
 - [Treees](https://github.com/bespoyasov/treees), a trees images generator built with clean architecture and OOP principles 🇬🇧🇷🇺
 - [Dependency Injection with TypeScript in Practice](https://github.com/bespoyasov/di-ts-in-practice), a logger-timer built using canonical DI 🇬🇧🇷🇺
