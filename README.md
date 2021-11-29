@@ -1,6 +1,6 @@
 # `console.log('Hello World!')`
 
-Hi! I'm Alex. 
+Hi! I'm Alex 👋
 
 I'm a developer, speaker, and mentor. Currently living in Sweden 🇸🇪, working at [0+X](https://0x.se) 👨‍💻, and posting to the [blog](https://github.com/bespoyasov/www) ✍️
 
@@ -31,6 +31,7 @@ When giving [public talks](https://bespoyasov.ru/talks/), I like to do live codi
 
 On my blog, some posts refer to code examples. Here are some of them:
 
+- [Text Generation with Markov Chains in JavaScript](https://github.com/bespoyasov/text-generator), a naive text generator built using Markov chains ans JavaScript 🇬🇧🇷🇺
 - [Clean Architecture on Frontend](https://github.com/bespoyasov/frontend-clean-architecture), how to use the Clean Architecture when writing a React app 🇬🇧🇷🇺
 - [Binary Adder in the Game of Life](https://github.com/bespoyasov/binary-full-adder-in-the-game-of-life), a circuit implementation made with patterns from Conway's Game of Life 🇬🇧🇷🇺
 - [Treees](https://github.com/bespoyasov/treees), a trees images generator built with clean architecture and OOP principles 🇬🇧🇷🇺
