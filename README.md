@@ -43,7 +43,7 @@ On my blog, some posts refer to code examples. Here are some of them:
 - [Web Worker Example](https://github.com/bespoyasov/web-worker-example), an example of using web workers for making a page more responsive 🇷🇺
 - [Tools](https://github.com/bespoyasov/tools), a list of tools I use in the development 🇷🇺
 
-## External Platforms
+## External Platforms 📢
 
 Except for the [blog](https://github.com/bespoyasov/www) 🇷🇺 I sometimes also post on:
 
