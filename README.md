@@ -50,3 +50,10 @@ Except for the [blog](https://github.com/bespoyasov/www) 🇷🇺 I sometimes al
 - Twitter [RU](http://twitter.com/bespoyasov) 🇷🇺 and [EN](http://twitter.com/bespoyasov_) 🇬🇧
 - [Dev.to](https://dev.to/bespoyasov) 🇬🇧
 - [Newline.co](https://www.newline.co/@bespoyasov) 🇬🇧
+
+## Support Me 💖
+
+Let me know if you like what I do and want to show your support:
+
+- [Buy a coffee](https://buymeacoffee.com/bespoyasov) ☕️
+- [Send an email](mailto:bespoyasov@me.com) 💌
