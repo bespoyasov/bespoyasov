@@ -4,7 +4,7 @@ Hi! I'm Alex 👋
 
 I'm a developer, speaker, and mentor. Currently living in Sweden 🇸🇪, working at [0+X](https://0x.se) 👨‍💻, and posting to the [blog](https://github.com/bespoyasov/www) ✍️
 
-## Some Projects 🧑‍💻
+## Recent Projects 🧑‍💻
 
 I have mostly worked on educational projects lately:
 
