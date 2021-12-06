@@ -2,9 +2,11 @@
 
 Hi! I'm Alex 👋
 
-I'm a developer, speaker, and mentor. Currently living in Sweden 🇸🇪, working at [0+X](https://0x.se) 👨‍💻, and posting to the [blog](https://github.com/bespoyasov/www) ✍️
+I'm a developer, speaker, and mentor. Currently living in Sweden 🇸🇪 and working at [0+X](https://0x.se) 👨‍💻
 
-## Recent Projects 🧑‍💻
+I help companies release and maintain their projects, mentor and teach students software development and system architecture, and collect my experience in the [blog](https://github.com/bespoyasov/www) ✍️
+
+## Recent Personal Projects 🧑‍💻
 
 I have mostly worked on educational projects lately:
 
