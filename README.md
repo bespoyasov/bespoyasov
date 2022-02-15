@@ -34,6 +34,7 @@ When giving [public talks](https://bespoyasov.ru/talks/), I like to do live codi
 On my blog, some posts refer to code examples. Here are some of them:
 
 - [Clean Architecture on Frontend](https://github.com/bespoyasov/frontend-clean-architecture), how to use the Clean Architecture when writing a React app 🇬🇧🇷🇺
+- [Declarative client-side validation](https://github.com/bespoyasov/rule-based-data-validation) with rule-based approach and functional programming 🇬🇧🇷🇺
 - [Text Generation with Markov Chains in JavaScript](https://github.com/bespoyasov/text-generator), a naive text generator built using Markov chains and JavaScript 🇬🇧🇷🇺
 - [Binary Adder in the Game of Life](https://github.com/bespoyasov/binary-full-adder-in-the-game-of-life), a circuit implementation made with patterns from Conway's Game of Life 🇬🇧🇷🇺
 - [Treees](https://github.com/bespoyasov/treees), a trees images generator built with clean architecture and OOP principles 🇬🇧🇷🇺
