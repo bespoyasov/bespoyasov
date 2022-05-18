@@ -26,7 +26,7 @@ Previous project in open (and not very much) source:
 
 ## Public Talks 🎙
 
-When giving [public talks](https://bespoyasov.ru/talks/), I like to do live coding. There is the source code for some of them:
+When giving [public talks](https://bespoyasov.me/talks/), I like to do live coding. There is the source code for some of them:
 
 - [Clean Architecture on Frontend](https://github.com/bespoyasov/frontend-clean-architecture)
 - [Testing React App in the Real Life](https://github.com/bespoyasov/testing-workshop)
@@ -37,19 +37,16 @@ When giving [public talks](https://bespoyasov.ru/talks/), I like to do live codi
 On my blog, some posts refer to code examples. Here's the source code for my popular posts in English and Russian:
 
 - [Clean Architecture on Frontend](https://github.com/bespoyasov/frontend-clean-architecture), how to use the Clean Architecture when writing a React app.
-- [Declarative client-side validation](https://github.com/bespoyasov/rule-based-data-validation) with rule-based approach and functional programming.
+- [Declarative Data Validation](https://github.com/bespoyasov/rule-based-data-validation) with rule-based approach and functional programming.
 - [Text Generation with Markov Chains in JavaScript](https://github.com/bespoyasov/text-generator), a naive text generator built using Markov chains and JavaScript.
 - [Binary Adder in the Game of Life](https://github.com/bespoyasov/binary-full-adder-in-the-game-of-life), a circuit implementation made with patterns from Conway's Game of Life.
 - [Treees](https://github.com/bespoyasov/treees), a trees images generator built with clean architecture and OOP principles.
 - [Dependency Injection with TypeScript in Practice](https://github.com/bespoyasov/di-ts-in-practice), a logger-timer built using canonical DI.
-- [Text-to-Morse-code Translator](https://github.com/bespoyasov/morse), translates text into Morse code sound.
-
-...and just in Russian:
-
-- [Click me!](https://github.com/bespoyasov/clickme), a silly old game implementation with RxJS and TypeScript.
-- [Finite State Machine](https://github.com/bespoyasov/fsm-example), an example of using FSM as a state manager.
-- [You Really Don't Need Redux Now](https://github.com/bespoyasov/you-really-dont-need-redux-now), a Redux vs React.Context + hooks comparison.
-- [Web Worker Example](https://github.com/bespoyasov/web-worker-example), an example of using web workers for making a page more responsive.
+- [Finite State Machine for State Management](https://github.com/bespoyasov/fsm-example), an example of using FSM as a state manager.
+- [You Might Not Need Redux Now](https://github.com/bespoyasov/you-really-dont-need-redux-now), a Redux vs React.Context + hooks comparison.
+- [Web Worker for Better Performance](https://github.com/bespoyasov/web-worker-example), an example of using web workers for making a page more responsive.
+- [Text-to-Morse-Code Translator](https://github.com/bespoyasov/morse), translates text into Morse code sound.
+- [Click Me!](https://github.com/bespoyasov/clickme), a silly old game implementation with RxJS and TypeScript.
 - [Tools](https://github.com/bespoyasov/tools), a list of tools I use in the development.
 
 ## External Platforms 📢
