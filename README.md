@@ -23,6 +23,7 @@ Previous project in open (and not very much) source:
 
 - [Tzlvt](https://fuckgrechka.ru/tzlvt/), a finance management mobile app based on web technologies.
 - [Scroller](https://github.com/bespoyasov/scroller), a fast, light-weight, and dependency-free content scroller.
+- [React Scroller](https://github.com/bespoyasov/react-scroller), a React component wrapper for Scroller.
 
 ## Public Talks 🎙
 
