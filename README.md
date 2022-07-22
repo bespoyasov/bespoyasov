@@ -30,6 +30,7 @@ Previous project in open (and not very much) source:
 
 When giving [public talks](https://bespoyasov.me/talks/), I like to do live coding. There is the source code for some of them:
 
+- [Refactor Like a Superhero](https://github.com/bespoyasov/refactor-like-a-superhero-talk)
 - [Clean Architecture on Frontend](https://github.com/bespoyasov/frontend-clean-architecture)
 - [Testing React App in the Real Life](https://github.com/bespoyasov/testing-workshop)
 - [HTML and CSS Basics](https://github.com/bespoyasov/traktor-html-css-workshop)
