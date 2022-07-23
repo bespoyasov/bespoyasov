@@ -19,7 +19,7 @@ I have mostly worked on educational projects lately. Here are some of them in En
 - [TTT-TDD](https://github.com/bespoyasov/ttt-tdd), a “Tic-tac-toe” test-driven development walk-through.
 - [Frontend with No Pain](https://github.com/bespoyasov/front-not-pain), a guide for frontend developers.
 
-Previous project in open (and not very much) source:
+Other projects in open (and not very much) source:
 
 - [Tzlvt](https://fuckgrechka.ru/tzlvt/), a finance management mobile app based on web technologies.
 - [Scroller](https://github.com/bespoyasov/scroller), a fast, light-weight, and dependency-free content scroller.
