@@ -19,7 +19,7 @@ I have mostly worked on educational projects lately. Here are some of them in En
 - [TTT-TDD](https://github.com/bespoyasov/ttt-tdd), a “Tic-tac-toe” test-driven development walk-through.
 - [Frontend with No Pain](https://github.com/bespoyasov/front-not-pain), a guide for frontend developers.
 
-Other projects in open (and not very much) source:
+In addition to educational projects, I've also worked on various apps and open source npm packages:
 
 - [Tzlvt](https://fuckgrechka.ru/tzlvt/), a finance management mobile app based on web technologies.
 - [Scroller](https://github.com/bespoyasov/scroller), a fast, light-weight, and dependency-free content scroller.
@@ -28,7 +28,7 @@ Other projects in open (and not very much) source:
 
 ## Public Talks 🎙
 
-When giving [public talks](https://bespoyasov.me/talks/), I like to do live coding. There is the source code for some of them:
+When giving [public talks](https://bespoyasov.me/talks/), I like to do live coding or refer to code samples to prove my point. There is the source code for some of my talks:
 
 - [Refactor Like a Superhero](https://github.com/bespoyasov/refactor-like-a-superhero-talk)
 - [Clean Architecture on Frontend](https://github.com/bespoyasov/frontend-clean-architecture)
@@ -37,7 +37,7 @@ When giving [public talks](https://bespoyasov.me/talks/), I like to do live codi
 
 ## Source Code for Popular Posts ✍️
 
-On my blog, some posts refer to code examples. Here's the source code for my popular posts in English and Russian:
+On my blog, some posts refer to code examples, too. Here's the source code for my popular posts in English and Russian:
 
 - [Clean Architecture on Frontend](https://github.com/bespoyasov/frontend-clean-architecture), how to use the Clean Architecture when writing a React app.
 - [Declarative Data Validation](https://github.com/bespoyasov/rule-based-data-validation) with rule-based approach and functional programming.
@@ -54,7 +54,7 @@ On my blog, some posts refer to code examples. Here's the source code for my pop
 
 ## External Platforms 📢
 
-Except for the [blog](https://github.com/bespoyasov/www) I sometimes also post on:
+Except for my [blog](https://github.com/bespoyasov/www) I sometimes also post on:
 
 - Twitter [in English](http://twitter.com/bespoyasov_) and [in Russian](http://twitter.com/bespoyasov)
 - [Dev.to](https://dev.to/bespoyasov)
