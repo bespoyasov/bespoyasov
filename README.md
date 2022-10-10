@@ -10,6 +10,7 @@ I help companies release and maintain their projects, mentor and teach students 
 
 I have mostly worked on educational projects lately. Here are some of them in English:
 
+- [Refactor Like a Superhero](https://github.com/bespoyasov/refactor-like-a-superhero-online-book), an online book about technics and heuristics of refactoring apps.
 - [Fullstack React with TypeScript](https://www.newline.co/fullstack-react-with-typescript), a book about building more robust React-apps using TypeScript.
 
 ...and in Russian:
