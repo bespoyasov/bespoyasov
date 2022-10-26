@@ -6,7 +6,7 @@ I'm a developer, speaker, and mentor. Currently working at [0+X](https://0x.se) 
 
 I help companies develop, release and maintain their projects; mentor and teach students software development and system architecture; share my knowledge and experience through my [blog](https://github.com/bespoyasov/www) and online books.
 
-On this page, I collected most recent projects I released, talks I gave, and posts I written so you can find what you're most interested in.
+On this page, I collected my most recent projects, talks, and posts so you can find what you're most interested in.
 
 ## Personal Projects 🧑‍💻
 
