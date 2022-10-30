@@ -18,9 +18,9 @@ Recent books about software development in English:
 Online books and educational projects in Russian:
 
 - 🐶 [Doka](https://github.com/doka-guide/content), like MDN but in Russian and with passion.
-- 🧱 [SOLID Book](https://github.com/open-tech-authors/solid), online book about object-oriented design principles.
-- 🔬 [TTT-TDD](https://github.com/bespoyasov/ttt-tdd), “Tic-Tac-Toe” test-driven development walk-through.
-- 💊 [Frontend with No Pain](https://github.com/bespoyasov/front-not-pain), uplifting guide for frontend developers.
+- 🧱 [Solidbook](https://github.com/bespoyasov/solidbook), online book about the SOLID principles and object-oriented software design.
+- 🔬 [TTT TDD](https://github.com/bespoyasov/ttt-tdd), walkthrough of making the “Tic-Tac-Toe” game using test-driven development.
+- 💊 [Frontend with Ease](https://github.com/bespoyasov/front-not-pain), uplifting guide for frontend developers about how to work with ease.
 
 Various apps, tools, and npm packages:
 
@@ -57,7 +57,7 @@ Some of my blog posts refer to code examples, too. Here's the source code for mo
 
 ## External Platforms 📢
 
-You can also find me posting on:
+You can also find me somtimes posting on:
 
 - 🐦 Twitter [in English](http://twitter.com/bespoyasov_) and [in Russian](http://twitter.com/bespoyasov)
 - 🧑‍💻 [Dev.to](https://dev.to/bespoyasov)
@@ -65,7 +65,7 @@ You can also find me posting on:
 
 ## Support Me 💖
 
-Let me know if you like what I do and want to show your support:
+If you like what I do and want to show your support:
 
 - 🐙 Follow me on GitHub
 - 🐦 [Follow me on Twitter](https://twitter.com/bespoyasov_)
