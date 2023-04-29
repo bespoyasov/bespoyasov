@@ -41,6 +41,7 @@ When giving [public talks](https://bespoyasov.me/talks/), I do live coding or re
 
 Some of my [blog posts](https://bespoyasov.me/blog/) refer to code examples, too. Here's the source code for most popular ones:
 
+- [Explicit Software Design Series](https://github.com/bespoyasov/explicit-design)<br>Using FP, DDD, Vertical Slices, and other programming buzzwords on the frontend.
 - [Clean Architecture in TypeScript](https://github.com/bespoyasov/frontend-clean-architecture)<br>How to use the Clean Architecture when writing a React app.
 - [Declarative and Composable Data Validation with FP](https://github.com/bespoyasov/rule-based-data-validation)<br>Using rule-based approach and functional programming for convenient data validation.
 - [Text Generation with Markov Chains in JavaScript](https://github.com/bespoyasov/text-generator)<br>Naive text generator built using Markov chains and JavaScript.
