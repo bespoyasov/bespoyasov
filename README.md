@@ -2,7 +2,7 @@
 
 Hi! I'm Alex 👋
 
-I'm a developer, speaker, and mentor. Currently working at [0+X](https://0x.se) and living in Stockholm.
+I'm a developer, speaker, and educator. Currently working at [0+X](https://0x.se) and living in Stockholm.
 
 I help companies develop, release and maintain their projects; mentor and teach students software development and system architecture; share my knowledge and experience through my [blog](https://github.com/bespoyasov/www) and online books.
 
